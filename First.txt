@@ -1,8 +1,7 @@
 Here's a new file that i've created.
 It has some words.
 
-<<<<<<< HEAD
+
 Here is something else
-=======
 Here is some different words.
->>>>>>> a388b3c803b09cb922b9f67541126da9f3288402
+
